@@ -1,6 +1,6 @@
-# ad-project
+# Vue.js+Vuetify anonymous mapketplace 
 
-> A Vue.js project
+> A Vue.js+Vuetify project
 
 ## Build Setup
 
